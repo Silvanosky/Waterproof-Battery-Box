@@ -21,7 +21,7 @@ Pour ouvrir, modifier et compiler ce modèle, vous avez besoin de :
 
 ## **🚀 Utilisation (OpenSCAD Customizer)**
 
-1. Ouvrez le fichier Waterproof\_21700\_V4.scad dans OpenSCAD.  
+1. Ouvrez le fichier Waterproof\_Battery\_Box.scad dans OpenSCAD.  
 2. Affichez la fenêtre **Customizer** (Menu Window \> Décochez Hide Customizer).  
 3. **Sélectionnez votre batterie** : Utilisez le menu déroulant pour choisir un format standard.  
 4. **Mode d'Affichage (part)** :  
